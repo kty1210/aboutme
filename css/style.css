@@ -419,3 +419,8 @@ tr:nth-child(5),
 tr:nth-child(5)>td{
 	height: 220px;	
 }
+
+
+footer{
+	text-align: center;
+}
